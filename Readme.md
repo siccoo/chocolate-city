@@ -1,1 +1,1 @@
-## Chocolate city studio web app that manage artiste.
+## Chocolate city studio web app that manage artiste server.

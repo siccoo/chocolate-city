@@ -63,8 +63,18 @@ const appData = {
                     key: 'cinematic'
                 },
                 {
-                    label: 'Accoustic',
-                    key: 'accoustic',
+                    label: 'Afrobeat',
+                    key: 'afrobeat',
+                    bgImage: ''
+                },
+                {
+                    label: 'Juju',
+                    key: 'juju',
+                    bgImage: ''
+                },
+                {
+                    label: 'Artiste',
+                    key: 'artiste',
                     bgImage: ''
                 }
             ]

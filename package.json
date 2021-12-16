@@ -4,7 +4,7 @@
   "description": "Chocolate City Artiste",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.server.js"
   },
   "author": "Chilaka Michael",
   "license": "MIT",
